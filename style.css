@@ -10,6 +10,16 @@
 .menu{
  flex: 5%;
  background-color: darkgray;
+ display:flex;
+ align-items:center;
+}
+.menu a{
+ padding: 15px 20px;
+ color: blue;
+}
+.menu hover{
+ background-color: Salmon;
+ color: black;
 }
 .content{
  flex: 70%;
@@ -18,6 +28,8 @@
 .content iframe{
  flex: 1
  border: none;
+ width: 100%;
+ length: 100%
 }
 .footer{
  flex: 10%;
@@ -26,6 +38,7 @@
 h1 {
   color: red;
   top-margin: 25pt;
+  vertical-align: top;
 }
 .tuade {
 color: tomato;
