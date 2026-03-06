@@ -26,7 +26,7 @@
 }
 .content{
  flex: 70%;
- background-color: Salmon;
+ background-color:lightpink;
 }
 .content iframe{
  flex: 1;
