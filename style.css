@@ -10,7 +10,7 @@
 }
 .menu{
  flex: 5%;
- background-color: darkgray;
+ background-color: pink;
  color:white;
  display:flex;
  align-items:center;
