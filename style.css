@@ -19,7 +19,7 @@
  padding: 15px 20px;
  color: white;
 }
-.menu hover{
+.menu a:hover{
  background-color: Salmon;
  color: black;
 }
