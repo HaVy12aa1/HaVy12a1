@@ -16,6 +16,7 @@
  color:white;
  display:flex;
  align-items:center;
+ gap: 40px;
 }
 .menu a{
  padding: 15px 20px;
