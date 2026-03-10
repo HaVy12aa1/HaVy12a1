@@ -6,7 +6,7 @@
 .header{
  flex: 25%;
  background-color: lightgray;
- background:url("images/DATA.png") width="100%";
+ background:url("images/DATA.png") width=100%;
  aspect-ratio:6/1;
 }
 .menu{
