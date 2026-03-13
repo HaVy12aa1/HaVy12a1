@@ -6,7 +6,7 @@
 .header{
  flex: 25%;
  background-color: lightgray;
- background:url("images/data.png");
+ background:url("images/DATA.png");
  background-size:100% auto;
  background-position:center;
 }
